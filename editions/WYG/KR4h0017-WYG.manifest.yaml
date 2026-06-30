@@ -1,0 +1,84 @@
+canonical_identifier: bkk:krp/KR4h0017/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4h0017/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 薛濤李冶詩集
+  date: '2015-08-25 00:31:12.089097'
+  source:
+    repository: kanripo
+    path: KR4h0017
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4h0017_000-WYG.yaml, hash: 'sha256:a1c492cb0d1209f539ad1e18b69af5ff03278f46413458ae6ea18573e5a9a6b3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4h0017_000-WYG.markers.yaml, hash: 'sha256:95671fe12fca337980fb43c21ad70e07e81743369f4f0af69736bbc15827334f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4h0017_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 412
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4h0017_WYG_000-3a
+    span:
+    - body
+    - 412
+    - 964
+  label: 薛濤傳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4h0017_WYG_000-5a
+    span:
+    - body
+    - 964
+    - 4183
+  label: 薛濤詩集
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4h0017_WYG_000-22a
+    span:
+    - body
+    - 4183
+    - 4327
+  label: 薛濤集補遺
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4h0017_WYG_000-23a
+    span:
+    - body
+    - 4327
+    - 5086
+  label: 附録
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4h0017_WYG_000-26a
+    span:
+    - body
+    - 5086
+    - 5771
+  label: 李冶詩集
+  type: section
+  level: 1
+hash: sha256:2f018740de7733faf3962582a08d5d3b15bb079150eaa9a3f847fd56c67e3bcb
