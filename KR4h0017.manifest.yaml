@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4h0017_000.yaml, hash: 'sha256:1733ac261bf8eb6563a19ac127cd16798f96183bf59c0c08cc9a5e63a920e4b5'}
+  - {seq: 0, filename: KR4h0017_000.yaml, hash: 'sha256:8d85b7f8635af5176ade7194d7e6705ff6f939e961c0348b06a16d792af6641f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4h0017_000.markers.yaml, hash: 'sha256:f6df9211292b41cc172f314f69fcaffb3eafe07f467863fd8baae8582420c155'}
+  - {seq: 0, role: markers, filename: assets/KR4h0017_000.markers.yaml, hash: 'sha256:204fad8abcf8606b00d70506db3c1f8f40992ffa4da1f0cf0fd0739562bb402b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -84,7 +84,4 @@ table_of_contents:
   label: 李冶詩集
   type: section
   level: 1
-hash: sha256:afce03e95f1c0b66fff216fe20726a142d66ff6df01a49f5c043da54f80346d3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4436eb6953e21087b5ff2e59895ae72cdc8c597d837235c179b989c23eb7c805
