@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4h0017/v1
 canonical_location: https://kanripo.org/bkk/KR4h0017/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 薛濤李冶詩集
   date: '2015-08-25 00:31:12.089097'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4h0017_000.yaml, hash: 'sha256:8d85b7f8635af5176ade7194d7e6705ff6f939e961c0348b06a16d792af6641f'}
+  - {seq: 0, filename: KR4h0017_000.yaml, hash: 'sha256:7e8fe4e33791b296982296f78c0456014f740d6414829cbd2b3adc462eaabdb5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4h0017_000.markers.yaml, hash: 'sha256:204fad8abcf8606b00d70506db3c1f8f40992ffa4da1f0cf0fd0739562bb402b'}
+  - {seq: 0, role: markers, filename: assets/KR4h0017_000.markers.yaml, hash: 'sha256:43d6515574c7fb7b986c4fd04816b6a70d6ec97cab4b370e3670a4ee8488bdaa'}
 table_of_contents:
 - ref:
     seq: 0
@@ -84,4 +84,7 @@ table_of_contents:
   label: 李冶詩集
   type: section
   level: 1
-hash: sha256:4436eb6953e21087b5ff2e59895ae72cdc8c597d837235c179b989c23eb7c805
+hash: sha256:9cf6113365922607b22dde25ca9d0079d350dc59c72debd9fec04063ba5b36e9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
