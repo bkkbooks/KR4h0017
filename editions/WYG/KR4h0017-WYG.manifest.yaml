@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4h0017_000-WYG.yaml, hash: 'sha256:a1c492cb0d1209f539ad1e18b69af5ff03278f46413458ae6ea18573e5a9a6b3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4h0017_000-WYG.markers.yaml, hash: 'sha256:95671fe12fca337980fb43c21ad70e07e81743369f4f0af69736bbc15827334f'}
+  - {seq: 0, role: markers, filename: assets/KR4h0017_000-WYG.markers.yaml, hash: 'sha256:6bcc41ac0be686bcb7a6ce33323ecf946206d41019bd2bca270bedf12b0b8f1c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -81,4 +81,4 @@ table_of_contents:
   label: 李冶詩集
   type: section
   level: 1
-hash: sha256:2f018740de7733faf3962582a08d5d3b15bb079150eaa9a3f847fd56c67e3bcb
+hash: sha256:0be14da02a2624fda66f6815792a5abef7b7788cb3eb9fcc71647f6fab8c8ec0
